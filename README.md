@@ -21,13 +21,6 @@ Kernels only competition are trickier than regular competitions since the soluti
 
 Data: https://www.kaggle.com/c/pubg-finish-placement-prediction/data
 
-File names:
-
-Model used:
-
-Number of features used: 
-
-Score (single model): 
-
-Score (ensemble):
-
+Score:
+Single model score - 0.1970
+Ensemble score - 0.1962
